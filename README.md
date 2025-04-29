@@ -1,1 +1,3 @@
-# 1004agaiklop
+# 1004agaiklop<p><a title="Brittni trammell " href="https://trammell1004.github.io/1004agaik/" target="_blank">Brittni </a></p>
+<h1 ><a href="https://zeno.fm/radio/b-trammell-radio/" title="Check out my radio broadcast ">Radio by me</a></h1>
+<a title="Brittni trammell " href="https://trammell1004.github.io/1004agaik/" target="_blank">Brittni </a> 
