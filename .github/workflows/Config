@@ -1,0 +1,20 @@
+# Zola Configuration
+base_url = "https://trammell1004.github.io/1004agaik/"
+title = "1004agaik"
+description = "A personal project showcasing static site features and custom styling."
+
+compile_sass = true
+build_search_index = true
+
+[search]
+index_format = "elasticlunr_json"
+
+[markdown]
+highlight_code = true
+highlight_theme = "kronuz"
+
+[link_checker]
+internal_level = "warn"
+
+[extra]
+author = "Brittni Trammell"
